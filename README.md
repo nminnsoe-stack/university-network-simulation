@@ -20,6 +20,6 @@ A multi-department Cisco Packet Tracer network simulation demonstrating static r
 * **Devices:** Includes Cisco 2911 routers, 2960 switches, servers, PCs, laptops, and printers distributed across localized department segments[cite: 3, 4, 5].
 
 ## How to Use
-1. Download and open `group_assigment_network_stimulation_group1_nms.pkt` in Cisco Packet Tracer.
+1. Download and open `network_typology_university.pkt` in Cisco Packet Tracer.
 2. Click on either `Router0` or `Router1`, navigate to the **CLI** tab, and enter `show ip route` to view active static routes.
 3. Test end-to-end connectivity by opening the Command Prompt on any PC (e.g., PC0 in SDS) and pinging a device on the opposite router (e.g., `ping 192.168.4.2`).
